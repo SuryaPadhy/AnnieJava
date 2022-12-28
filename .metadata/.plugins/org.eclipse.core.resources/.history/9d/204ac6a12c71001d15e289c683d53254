@@ -1,0 +1,10 @@
+package com.annie.pattern;
+
+public class Dutchkeyp {
+
+	public static void main(String[] args) {
+		int n = 5;
+		
+	}
+
+}

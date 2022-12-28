@@ -1,0 +1,13 @@
+package com.annie.datastructures;
+
+public class DoublyLinkedList {
+
+	public static void main(String[] args) {
+		private Node  first = null;
+		private Node last = null;
+		private int count = 0;
+		
+		
+	}
+
+}
