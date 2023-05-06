@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Java_Basics",
+    "\\Java_Basics\\src",
+    "\\Java_Basics\\src\\com",
+    "\\Java_Basics\\src\\com\\annie",
+    "\\Java_Basics\\src\\com\\annie\\array"
   ],
-  "SelectedNode": "\\C:\\Users\\0033B3744\\Source\\Repos\\AnnieJava",
+  "SelectedNode": "\\Java_Basics\\src\\com\\annie\\array\\Bubblesort.java",
   "PreviewInSolutionExplorer": false
 }
